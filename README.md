@@ -1,4 +1,3 @@
-# night-clock-privacy-policy
 **Privacy Policy**
 
 Karol Szczepański, built the Night Clock & Weather app as a Free app. This SERVICE is provided by Karol Szczepański, at no cost and is intended for use as is.
